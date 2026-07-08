@@ -11,6 +11,12 @@ certificate at the end. Not an app — a guide.
 
 Every page is a markdown file. Edit it, commit, push, deploy. No build step.
 
+The fast path: dump your docs (Google Docs exports etc.) into `sources/` and
+ask Claude to run `/update-tasks` — it extracts beginner-sized tasks and fills
+`[FILL IN]` gaps using your wording, then deploys. `sources/` is gitignored:
+source docs are never committed or published. The skill lives at
+`.claude/skills/update-tasks/SKILL.md`.
+
 - `_sidebar.md` — the table of contents. Add a page here or it won't show up.
 - `welcome.md` — the home page.
 - `start/`, `warmup/`, `work/`, `outreach/`, `teams/`, `finish/` — one file per task.

@@ -10,6 +10,9 @@ DEST=/var/www/demos/rtv-onboarding
 mkdir -p "$DEST"
 rsync -a --delete \
   --exclude .git \
+  --exclude .gitignore \
+  --exclude .claude \
+  --exclude sources \
   --exclude deploy.sh \
   --exclude README.md \
   "$SRC"/ "$DEST"/

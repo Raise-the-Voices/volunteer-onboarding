@@ -1,0 +1,3 @@
+# Source docs are input only — may contain private info, never published.
+sources/*
+!sources/README.md
