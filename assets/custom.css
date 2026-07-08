@@ -89,8 +89,10 @@ body {
   color: #25646a;
   font-size: 16.5px;
 }
+/* Our sidebar is flat (no nested chapters), so the plugin's subtitle slot
+ * just repeats the page title — hide it. */
 .pagination-item-subtitle {
-  opacity: 0.5;
+  display: none;
 }
 
 /* Task checkboxes — big enough to want to click */
