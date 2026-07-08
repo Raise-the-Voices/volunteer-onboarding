@@ -84,6 +84,15 @@ body {
   color: #6b5232;
 }
 
+/* Previous / Next footer (docsify-pagination) */
+.pagination-item-title {
+  color: #25646a;
+  font-size: 16.5px;
+}
+.pagination-item-subtitle {
+  opacity: 0.5;
+}
+
 /* Task checkboxes — big enough to want to click */
 .markdown-section li input[type='checkbox'] {
   width: 18px;

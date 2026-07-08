@@ -46,9 +46,12 @@ Internal links must be root-relative and end in `.md`: `[text](/warmup/pick-your
 
 ## How it works
 
-[docsify](https://docsify.js.org) v4.13.1, vendored in `vendor/` (no CDN at
-runtime). `index.html` is the whole configuration. `assets/progress.js` makes
-the markdown task-list checkboxes clickable and persists them.
+[docsify](https://docsify.js.org) v4.13.1 plus
+[docsify-pagination](https://github.com/imyelo/docsify-pagination) v2.10.1
+(the Previous/Next footer — it follows `_sidebar.md` order, no checkboxes
+required), both vendored in `vendor/` (no CDN at runtime). `index.html` is the
+whole configuration. `assets/progress.js` makes the markdown task-list
+checkboxes clickable and persists them.
 
 **Checkbox persistence is per-browser (localStorage), keyed by page path +
 position.** Consequences:
