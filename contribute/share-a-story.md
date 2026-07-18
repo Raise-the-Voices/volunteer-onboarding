@@ -13,4 +13,4 @@ still counts.
 
 **Done when:** you've shared one post and posted the link for the team.
 
-> This is **step 8 of how we reach out — amplify** (see [Write and share a piece](/outreach/write-and-share.md)). And **Forgiveness, not permission**: you don't need sign-off to share a true story in good faith.
+> This is **step 8 of [how we reach out](https://docs.google.com/document/d/14XjJB7GD0V2MLhwtLBJ6HoETyPpVHfQdCMLT_EsPAlg/edit) — amplify** (see [Write and share a piece](/outreach/write-and-share.md)). And **Forgiveness, not permission**: you don't need sign-off to share a true story in good faith.
