@@ -12,7 +12,7 @@ open it to anyone interested.
 
 - [ ] Pick a **real topic** you'd genuinely like to talk about — an issue, a country, or a skill to learn together
 - [ ] Find **one partner**: message someone in **#general** or a country/area channel and agree on a time
-- [ ] Create the event in Google Calendar, then **copy it onto the RTV calendar** (open the event → three-dot menu → *Copy to…* → the RTV calendar) — *[FILL IN: exact RTV calendar name]*
+- [ ] Create the event in Google Calendar, then **copy it onto the RTV calendar** (open the event → three-dot menu → *Copy to…* → the RTV calendar)
 - [ ] Give it a clear name — someone seeing only the title should know what it is
 - [ ] Open the event, choose **Publish event**, and **copy the link**
 - [ ] Post that link in **#general** (or your country/area channel): say what it's about and that **anyone interested is welcome to join**
@@ -24,4 +24,3 @@ open it to anyone interested.
 > whole campaigns.
 >
 > Clues: look at existing events on the RTV calendar for the naming pattern.
-> *[FILL IN: link to the RTV calendar]*

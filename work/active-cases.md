@@ -1,11 +1,5 @@
 # From practice to real cases
 
-<!-- Sequencing note for maintainers: this page is the bridge from warm-up
-     skills to live casework. Keep it gentle. Specific live cases (names,
-     dates, what happened) are NOT listed here — they're shared with the team
-     by a lead, once a volunteer is ready. That protects families, keeps
-     unverified details offline, and doesn't overwhelm new people. -->
-
 By now you've set up a meeting, picked an issue, found allies, and drafted an
 outreach message. Those are the exact skills real casework needs. This page is
 the bridge from practising to helping for real — at your own pace.
@@ -38,8 +32,6 @@ Gentle, useful ways to help that don't require you to be at the front line:
 - **Disappeared & detained** — help build lists of the missing by country
 - **Gaza** — help vet orgs and individuals actually on the ground
 - **Sudan** — event and coordination support
-
-<!-- CHECK (hidden, for Golda): [CHECK: an earlier draft listed a "Speaker Series" campaign here — it isn't in your handbook or onboarding docs, so it's been removed. Re-add it if RTV actually runs one.] -->
 
 > You'll find these as projects in your [task workspace](https://help.raisethevoices.org/) —
 > open one and see what needs doing. Not connected yet? See [Get connected](/start/get-connected.md).

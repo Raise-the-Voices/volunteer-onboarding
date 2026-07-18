@@ -3,9 +3,6 @@
 **Goal:** understand how Raise the Voices works before you dive in — it makes
 every task after this make sense.
 
-<!-- Maintainer: confirm the handbook link below is shared so volunteers can
-     open it (view access), and swap for the final link if it moves. -->
-
 - [ ] Read the [Volunteer Handbook](https://docs.google.com/document/d/14Kf-bJidXohb2FO0RVgDx6ZGyI08sgEHw6vAUzfYif8/edit) — especially **How We Work**
 - [ ] Learn **the Learning Cycle** — it's how we work every case:
   1. **Understand** — read up on the situation, and write a short *backgrounder* so others get the big picture

@@ -1,8 +1,5 @@
 # Welcome
 
-<!-- Aligned 2026-07-18 with Golda's onboarding docs. Tone: warm, gentle,
-     no shocking case detail up front. Ramp people up little by little. -->
-
 You're volunteering with [Raise the Voices](https://raisethevoices.org).
 
 The overarching theme of our work is connection - connecting to people on the

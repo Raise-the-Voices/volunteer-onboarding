@@ -12,8 +12,8 @@ When you do talk to an official, remember **the Five F's**. Be:
 - **Friendly** — you want a relationship, not a fight.
 - **Firm** — polite, but don't be brushed off.
 
-- [ ] Read the full guide to landing a meeting — *[FILL IN: link to Golda's guide to meeting with officials]*
+- [ ] Ask in **#general** for the full guide to landing a meeting
 - [ ] Before your first one, do the beginner version first: [Lobby an official](/outreach/lobby-an-official.md)
 
 > Don't do a real official meeting alone — pair up with an experienced
-> volunteer. Ask in **#general** who can go with you. *[FILL IN: who to pair with]*
+> volunteer. Ask in **#general** who can go with you.

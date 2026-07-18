@@ -11,7 +11,6 @@ leverage — companies, public figures, journalists, officials.
   - `<country> biggest trading partners`
   - `celebrities from <country>` / `athletes from <country>`
   - `journalists covering <issue>`
-  - *[FILL IN: Golda's example searches from the outreach doc]*
 - [ ] Pick three people or organizations from what you find
 - [ ] Find each one on LinkedIn (or wherever they're publicly reachable)
 - [ ] For each: note the name, their role, why they have leverage, and a profile link

@@ -17,7 +17,7 @@ Keep **the Five F's** in mind — be **Fast, Fair, Frank, Friendly, Firm**.
   - the issue or case in **two sentences**
   - **one clear ask** ("Please raise this with…", "Will your office look into…?")
 - [ ] Share your draft in **#general** for a quick check before sending
-- [ ] Send it, and note that you did — *[FILL IN: where we track outreach]*
+- [ ] Send it, and note that you did in **#general**
 
 **Done when:** your message is sent and logged.
 
