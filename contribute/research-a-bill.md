@@ -1,8 +1,12 @@
 # Research a bill
 
-Laws are levers. Knowing which bill touches your issue — what it says, who's
-behind it, what it would change — turns "someone should do something" into a
-specific ask you can bring to a specific office.
+Knowing which bill touches your issue — what it says, who's behind it, what it
+would change — turns "someone should do something" into a specific ask you can
+bring to a specific office.
+
+> [CHECK: bill/legislation research isn't named in your handbook, onboarding
+> summary, or the 8 Steps doc. It's written here as a lead-in to lobbying (which
+> is grounded). Keep this task, cut it, or tell us how you'd frame it.]
 
 **Goal:** find one bill or law relevant to your issue and summarize it in a few lines.
 

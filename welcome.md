@@ -3,15 +3,13 @@
 <!-- Aligned 2026-07-18 with Golda's onboarding docs. Tone: warm, gentle,
      no shocking case detail up front. Ramp people up little by little. -->
 
-You're volunteering with [Raise the Voices](https://raisethevoices.org) —
-advocacy for people facing enforced disappearance, arbitrary detention, and
-other situations where they can't turn to their own government for protection.
+You're volunteering with [Raise the Voices](https://raisethevoices.org).
 
-Three things we do:
-
-1. **Help families of the disappeared** — including lobbying people who have leverage.
-2. **Keep a record** — a testimony and cases database of vulnerable people, so their stories aren't lost.
-3. **Amplify voices** — get the stories of protesters and at-risk people seen and heard.
+The overarching theme of our work is connection - connecting to people on the
+ground and their families, who are directly impacted by events or who are
+working hard to make changes; and connecting to those who have some power to
+help, whether that is the public thru social media, congressional staffers,
+corporate board members, reporters or influencers.
 
 This guide gets you up to speed through a lot of **little tasks**. The point is
 to warm you up and get you talking to the team — not to bury you in reading, and
@@ -34,9 +32,8 @@ jump anywhere. Do the sections roughly in order: **Start here**, then
 among the setup steps — so you're doing something you actually care about from
 the very start, not just technical chores.
 
-One thing about how we work: **Forgiveness, not permission.** Act openly and in
-good faith — you don't need to wait for sign-off to do the right thing. When
-you're unsure, ask.
+One thing about how we work: **Forgiveness, not permission** — act transparently
+rather than seek advance approval. When you're unsure, ask.
 
 When you've worked through the checklist, you get a certificate — see
 [Your certificate](/finish/certificate.md).

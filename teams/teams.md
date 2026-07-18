@@ -11,4 +11,8 @@ tasks and its own lead to talk to.
 - [ ] **Research & casework** — *[FILL IN: what they do, who leads it, how to join]*
 - [ ] **Outreach** — *[FILL IN: what they do, who leads it, how to join]*
 
+> [CHECK: these three team names are placeholders, not from your docs. You've
+> said teams today are #general plus a channel per country/area — so this may
+> want to become "pick a country/area channel" instead. Tell us the real teams.]
+
 **Done when:** you've talked to a team lead and know what your first team task is.

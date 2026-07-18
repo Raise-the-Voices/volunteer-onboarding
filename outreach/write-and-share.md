@@ -1,8 +1,9 @@
 # Write and share a piece
 
-Writing is one of our three core skills. A short, honest piece — a post, a
-letter to the editor, an opinion piece — can put an issue in front of people who
-would never see a news report. This is our step-by-step method.
+Writing is one of the main ways we contribute — consistent research and
+articles are what we always need. A short, honest piece — a post, a letter to
+the editor, an opinion piece — can put an issue in front of people who would
+never see a news report. This is our step-by-step method.
 
 **Goal:** write one short piece and share it.
 
