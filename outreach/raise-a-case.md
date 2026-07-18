@@ -7,10 +7,7 @@ We're not accusing anyone of anything — so we can't be accused of libel —
 we're literally asking them to help with the case, because they have
 leverage. A question gets read; an accusation gets deleted.
 
-> [CHECK: the "ask as a question, not an accusation / libel" reasoning isn't
-> spelled out in your handbook, onboarding summary, or 8 Steps doc. It fits the
-> Five F's and the collaborative-partner goal, and it also underpins
-> [Comment in a thread](/contribute/comment-in-a-thread.md) and
+<!-- CHECK (hidden, for Golda): [CHECK: the "ask as a question, not an accusation / libel" reasoning isn't spelled out in your handbook, onboarding summary, or 8 Steps doc. It fits the Five F's and the collaborative-partner goal, and it also underpins [Comment in a thread](/contribute/comment-in-a-thread.md) and -->
 > [From practice to real cases](/work/active-cases.md). Confirm it's your method
 > and we'll drop this note.]
 
