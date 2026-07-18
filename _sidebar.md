@@ -1,6 +1,7 @@
 * **Start here**
 * [Welcome](welcome.md)
 * [Get connected](start/get-connected.md)
+* [Read the handbook](start/read-the-handbook.md)
 * [Tour the site](start/tour-the-site.md)
 
 * **Warm-up tasks**
@@ -10,10 +11,13 @@
 
 * **Know the work**
 * [The cases database](work/cases-database.md)
+* [From practice to real cases](work/active-cases.md)
 
 * **Outreach skills**
 * [Find influencers](outreach/find-influencers.md)
 * [Raise a case with someone](outreach/raise-a-case.md)
+* [Lobby an official](outreach/lobby-an-official.md)
+* [Write and share a piece](outreach/write-and-share.md)
 * [Advanced: meeting officials](outreach/meeting-officials.md)
 
 * **Choose your team**

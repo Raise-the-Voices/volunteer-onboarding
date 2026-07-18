@@ -1,11 +1,19 @@
 # Get connected
 
-**Goal:** be reachable, and say hi.
+**Goal:** get access to the tools, be reachable, and say hi.
 
-- [ ] Join the volunteer chat — *[FILL IN: which chat (Slack / Discord / WhatsApp) and the invite link]*
-- [ ] Post a short intro: who you are, where you are, and why you're here
-- [ ] Read back through the last few days of messages to get a feel for how the team talks
+You'll need access to a few things. Until we have single sign-on, just ask for
+each one — someone will set you up. Not sure who to ask? Ask in **#general**.
 
-**Done when:** your intro is posted and someone has replied to it.
+- [ ] Join the volunteer **Slack** — *[FILL IN: Slack invite link]*
+- [ ] Post a short intro in **#general**: who you are, where you are, and why you're here
+- [ ] Join a **country/area channel** for a region you care about (Gaza, Sudan, and others)
+- [ ] Get added to the shared **RTV calendar** — *[FILL IN: how to request calendar access]*
+- [ ] Get your login for the **task workspace** at [help.raisethevoices.org](https://help.raisethevoices.org/) — where our projects and tasks live — *[FILL IN: how volunteers get their account]*
+- [ ] Get access to the **cases database** at [cases.raisethevoices.org](https://cases.raisethevoices.org) — *[FILL IN: how to request cases access]*
+- [ ] Read back through the last few days of Slack to get a feel for how the team talks
 
-> Tip: there is no wrong intro. Two sentences is plenty.
+**Done when:** you're in Slack, on the calendar, and can open the task workspace.
+
+> Tip: there is no wrong intro — two sentences is plenty. **#general** is the
+> main channel; each country/area we work on has its own channel too.

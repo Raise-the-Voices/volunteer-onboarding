@@ -1,10 +1,19 @@
 # Advanced: meeting officials
 
-We have a full guide to landing a meeting with senators and other officials.
-It's advanced — come back to it once you're comfortable with everything else
-in this guide.
+Getting a meeting with a senator, MP, or other official is one of the most
+powerful things we do — it's how a single case becomes real pressure. It's
+advanced, so come back to it once you're comfortable with the rest of the guide.
 
-- [ ] Read the guide — *[FILL IN: link to Golda's guide to meeting with officials]*
+When you do talk to an official, remember **the Five F's**. Be:
 
-> If you get this far and want to try it, don't do it alone — pair up with an
-> experienced volunteer. *[FILL IN: who to pair with]*
+- **Fast** — get to the point; their time is short.
+- **Fair** — accurate, no exaggeration.
+- **Frank** — say plainly what you're asking for.
+- **Friendly** — you want a relationship, not a fight.
+- **Firm** — polite, but don't be brushed off.
+
+- [ ] Read the full guide to landing a meeting — *[FILL IN: link to Golda's guide to meeting with officials]*
+- [ ] Before your first one, do the beginner version first: [Lobby an official](/outreach/lobby-an-official.md)
+
+> Don't do a real official meeting alone — pair up with an experienced
+> volunteer. Ask in **#general** who can go with you. *[FILL IN: who to pair with]*
