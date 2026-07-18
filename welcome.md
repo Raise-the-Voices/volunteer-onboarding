@@ -30,7 +30,9 @@ Every page works the same way:
 
 The menu on the left is the whole guide — you can always see where you are and
 jump anywhere. Do the sections roughly in order: **Start here**, then
-**Warm-up tasks**, and on down.
+**Warm-up tasks**, and on down. We've mixed small, real contributions right in
+among the setup steps — so you're doing something you actually care about from
+the very start, not just technical chores.
 
 One thing about how we work: **Forgiveness, not permission.** Act openly and in
 good faith — you don't need to wait for sign-off to do the right thing. When
